@@ -1,6 +1,6 @@
 # My-own-decision-tree-classifier
 
-This project was a part of course in machine learning with my friend Braghe. I will remove his last name and mine for anonymity.
+This project was a part of course in machine learning with my friend Brage. I will remove his last name and mine for anonymity.
 
 This will work on any binary classification problem with the possibility to prune. 
 
